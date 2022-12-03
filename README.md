@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+https://github.com/anuraghazra/github-readme-stats
+https://github-readme-streak-stats.herokuapp.com/demo/
+https://github.com/ryo-ma/github-profile-trophy
+
 -->
 
 <h1 align="center">Hi 👋, I'm Cedric Cazin</h1>
