@@ -24,7 +24,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <h1 align="center">Hi 👋, I'm Cedric Cazin</h1>
 
-<h3 align="center">A passionate full stack lead developer from France</h3>
+<h3 align="center">A passionate full stack lead engineer from France</h3>
 
 - 🔭 I’m currently working on [DemandSens Press & Books](https://bearingpoint.services/demandsens/en/our-demandsens-solutions/demandsens-press/)
 - 📫 How to reach me **cedric.cazin@outlook.com**
