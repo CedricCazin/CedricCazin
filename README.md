@@ -1,10 +1,4 @@
 <!--
-### Hi there 👋
-
-**CedricCazin/CedricCazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,7 +20,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <a href="https://codepen.io/cedriccazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cedriccazin" height="30" width="40" /></a>
 <a href="https://dev.to/@cedriccazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@cedriccazin" height="30" width="40" /></a>
  
-
 -->
 
 <h1 align="center">Hi 👋, I'm Cedric Cazin</h1>
@@ -117,7 +110,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 * ...
 
 
-<h3 align="left">Learning / Want to learn:</h3>  
+<h3 align="left">🌱 I’m currently learning / Want to learn:</h3>  
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
