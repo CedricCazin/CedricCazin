@@ -59,6 +59,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a>
   <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> <img src="https://material.angular.io/assets/img/angular-material-logo.svg" alt="angular material" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="jquery" width="40" height="40"/> </a>  
   
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
@@ -96,6 +97,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" alt="balsamiq" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.npm.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1285630920263966721/Uk6O1QGC_400x400.jpg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" alt="postman" width="40" height="40"/> </a>
+  
+  
 
 
 <h3 align="left">Other Libs:</h3>  
@@ -109,13 +114,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 * https://github.com/Leaflet
 * https://github.com/moment
 * https://github.com/jaredhanson/passport
+* ...
 
 
 <h3 align="left">Learning / Want to learn:</h3>  
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.nuxtjs.cn/logos/nuxt-icon-white.png" alt="nuxtjs" width="40" height="40"/> </a>
 
 
@@ -126,3 +132,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 * [windows-terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=fr-fr&gl=fr)
 * [oh my zsh](https://ohmyz.sh/)
 * [oh my posh](https://ohmyposh.dev/)
+* ...
