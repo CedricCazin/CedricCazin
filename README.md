@@ -94,8 +94,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" alt="postman" width="40" height="40"/> </a>
   
   
-
-
 <h3 align="left">Other Libs:</h3>  
 
 * https://github.com/semantic-release/semantic-release
@@ -126,3 +124,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 * [oh my zsh](https://ohmyz.sh/)
 * [oh my posh](https://ohmyposh.dev/)
 * ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedriccazin&show_icons=true&locale=en&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedriccazin&show_icons=true&locale=en&theme=onedark&hide=stars,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cedriccazin&theme=onedark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cedriccazin&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
