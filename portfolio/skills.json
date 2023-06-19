@@ -8,49 +8,49 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
             },
             {
                 "name": "CSS3",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
             },
             {
                 "name": "SASS",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
             },
             {
                 "name": "JavaScript",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             },
             {
                 "name": "TypeScript",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             },
             {
                 "name": "CSharp",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 70,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
             },
             {
                 "name": "Python",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 60,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             }
         ]
     },
@@ -63,42 +63,42 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
             },
             {
                 "name": "Angular Material",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //camo.githubusercontent.com/ccf7b357bae6f4c8845851055811bbd1233abfc1da5333f3b1ecec05d78e9d95/68747470733a2f2f6d6174657269616c2e616e67756c61722e696f2f6173736574732f696d672f616e67756c61722d6d6174657269616c2d6c6f676f2e737667"
+                "image": "https://camo.githubusercontent.com/ccf7b357bae6f4c8845851055811bbd1233abfc1da5333f3b1ecec05d78e9d95/68747470733a2f2f6d6174657269616c2e616e67756c61722e696f2f6173736574732f696d672f616e67756c61722d6d6174657269616c2d6c6f676f2e737667"
             },
             {
                 "name": "Tailwind",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
             },
             {
                 "name": "NestJs",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
             },
             {
                 "name": "NodeJs",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
             },
             {
                 "name": "Express",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
             }
         ]
     },
@@ -118,70 +118,70 @@
                 "description": "",
                 "borderColor": "silver",
                 "progress": 60,
-                "image": "https: //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png"
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png"
             },
             {
                 "name": "AgGrid",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //blog.ag-grid.com/content/images/2021/11/200pxArtboard-5.png"
+                "image": "https://blog.ag-grid.com/content/images/2021/11/200pxArtboard-5.png"
             },
             {
                 "name": "ChartJs",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667"
+                "image": "https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667"
             },
             {
                 "name": "HighCharts",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/546198b6ccda37a8f566e9ba4b29901b34d338782e8e37f140ecf2ef484a0b1a/68747470733a2f2f77702d6173736574732e686967686368617274732e636f6d2f7376672f6c6f676f323032312e737667"
+                "image": "https://camo.githubusercontent.com/546198b6ccda37a8f566e9ba4b29901b34d338782e8e37f140ecf2ef484a0b1a/68747470733a2f2f77702d6173736574732e686967686368617274732e636f6d2f7376672f6c6f676f323032312e737667"
             },
             {
                 "name": "Cypress",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+                "image": "https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
             },
             {
                 "name": "Passport",
                 "description": "",
                 "borderColor": "silver",
                 "progress": 80,
-                "image": "https: //cdn.glitch.me/project-avatar/0d184ee3-fd8d-4b94-acf4-b4e686e57375.png"
+                "image": "https://cdn.glitch.me/project-avatar/0d184ee3-fd8d-4b94-acf4-b4e686e57375.png"
             },
             {
                 "name": "Keycloak",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"
             },
             {
                 "name": "Minio",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 80,
-                "image": "https: //min.io/resources/img/logo/MINIO_Bird.png"
+                "image": "https://min.io/resources/img/logo/MINIO_Bird.png"
             },
             {
                 "name": "Jest",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https: //www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+                "image": "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
             },
             {
                 "name": ".net Core",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 70,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
             }
         ]
     },
@@ -194,42 +194,42 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
             },
             {
                 "name": "MongoDB",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
             },
             {
                 "name": "MySQL",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
             },
             {
                 "name": "Matomo",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
             },
             {
                 "name": "Redis",
                 "description": "",
                 "borderColor": "#B87333",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
             },
             {
                 "name": "SQLServer",
                 "description": "",
                 "borderColor": "#B87333",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
             }
         ]
     },
@@ -242,35 +242,35 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
             },
             {
                 "name": "Podman",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg"
             },
             {
                 "name": "Azure",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
             },
             {
                 "name": "AWS",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
             },
             {
                 "name": "Kubernetes",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
             }
         ]
     },
@@ -283,35 +283,35 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/feb3389f1c3db706f621113b8b6637bb2b99d5e0752ebaf94cd09f8c7cb6ddf6/68747470733a2f2f73796d626f6c732e67657476656374612e636f6d2f7374656e63696c5f31322f305f6177732d636f64656275696c642e393637383735303431302e706e67"
+                "image": "https://camo.githubusercontent.com/feb3389f1c3db706f621113b8b6637bb2b99d5e0752ebaf94cd09f8c7cb6ddf6/68747470733a2f2f73796d626f6c732e67657476656374612e636f6d2f7374656e63696c5f31322f305f6177732d636f64656275696c642e393637383735303431302e706e67"
             },
             {
                 "name": "Azure Pipelines",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/7645f63ad0b0eded5b3eb2556c3313470f5afcec8f3d243503116231af4c8de8/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3531322f312a3150757a5155524a7a53645678502d62303068444a672e706e67"
+                "image": "https://camo.githubusercontent.com/7645f63ad0b0eded5b3eb2556c3313470f5afcec8f3d243503116231af4c8de8/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3531322f312a3150757a5155524a7a53645678502d62303068444a672e706e67"
             },
             {
                 "name": "GitHub Actions",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"
+                "image": "https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"
             },
             {
                 "name": "Circle CI",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg"
             },
             {
                 "name": "Travis CI",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/12a65fb0beb7c1463b472782e6349e1b9be56be1b3d3e30a510831f4cd5ce43f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7472617669732d63692f7472617669732d63692d69636f6e2e737667"
+                "image": "https://camo.githubusercontent.com/12a65fb0beb7c1463b472782e6349e1b9be56be1b3d3e30a510831f4cd5ce43f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7472617669732d63692f7472617669732d63692d69636f6e2e737667"
             }
         ]
     },
@@ -324,28 +324,28 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
             },
             {
                 "name": "Nrwl Nx",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2995/95998d2a-00f2-4e8e-9ebc-0b06de97c37f.png"
+                "image": "https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2995/95998d2a-00f2-4e8e-9ebc-0b06de97c37f.png"
             },
             {
                 "name": "Prettier",
                 "description": "",
                 "borderColor": "silver",
                 "progress": 90,
-                "image": "https: //raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.png"
+                "image": "https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.png"
             },
             {
                 "name": "Semantic Release",
                 "description": "",
                 "borderColor": "silver",
                 "progress": 90,
-                "image": "https: //avatars.githubusercontent.com/u/12867925?s=280&v=4"
+                "image": "https://avatars.githubusercontent.com/u/12867925?s=280&v=4"
             },
             {
                 "name": "Renovate",
@@ -359,84 +359,84 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
             },
             {
                 "name": "Webpack",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
             },
             {
                 "name": "Git",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
             },
             {
                 "name": "GitHub",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             },
             {
                 "name": "Bash",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
             },
             {
                 "name": "Gulp",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"
             },
             {
                 "name": "Grunt",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg"
             },
             {
                 "name": "Npm",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/cd4ab87ddf055337774619e8bc76dec96ba766f0ffc8c89d4252dc01639773da/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313238353633303932303236333936363732312f556b364f315147435f343030783430302e6a7067"
+                "image": "https://camo.githubusercontent.com/cd4ab87ddf055337774619e8bc76dec96ba766f0ffc8c89d4252dc01639773da/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313238353633303932303236333936363732312f556b364f315147435f343030783430302e6a7067"
             },
             {
                 "name": "Nexus",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/00d22971d61ac20976d16437c998df8a3931d980f0d9949bd781806cf63028b6/68747470733a2f2f68656c702e736f6e61747970652e636f6d2f646f63732f66696c65732f3333313032322f33343533373936342f332f313536343637313330333634312f4e657875735265706f5f49636f6e2e706e67"
+                "image": "https://camo.githubusercontent.com/00d22971d61ac20976d16437c998df8a3931d980f0d9949bd781806cf63028b6/68747470733a2f2f68656c702e736f6e61747970652e636f6d2f646f63732f66696c65732f3333313032322f33343533373936342f332f313536343637313330333634312f4e657875735265706f5f49636f6e2e706e67"
             },
             {
                 "name": "Figma",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
             },
             {
                 "name": "Balsamic",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //camo.githubusercontent.com/769a6e7592fbd9ca109d7a3ebe08042b2249edc19855a34df7aa015761d1b890/68747470733a2f2f62616c73616d69712e636f6d2f6173736574732f636f6d70616e792f6272616e646173736574732f736d696c6579666163652d7472616e73706172656e742d3130383078313038302e706e67"
+                "image": "https://camo.githubusercontent.com/769a6e7592fbd9ca109d7a3ebe08042b2249edc19855a34df7aa015761d1b890/68747470733a2f2f62616c73616d69712e636f6d2f6173736574732f636f6d70616e792f6272616e646173736574732f736d696c6579666163652d7472616e73706172656e742d3130383078313038302e706e67"
             },
             {
                 "name": "Postman",
                 "description": "",
                 "borderColor": "grey",
                 "progress": 90,
-                "image": "https: //www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+                "image": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
             }
         ]
     }
