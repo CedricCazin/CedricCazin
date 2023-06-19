@@ -63,6 +63,7 @@
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
+                "url": "https://angular.io/",
                 "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
             },
             {
