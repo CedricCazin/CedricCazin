@@ -107,74 +107,46 @@
         "description": "lorem",
         "skills": [
             {
-                "name": "Dapr",
-                "description": "",
-                "borderColor": "silver",
-                "progress": 60,
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dapr_logo.svg/1200px-Dapr_logo.svg.png"
-            },
-            {
-                "name": "AgGrid",
+                "name": "Angular",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https://blog.ag-grid.com/content/images/2021/11/200pxArtboard-5.png"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
             },
             {
-                "name": "ChartJs",
-                "description": "",
-                "borderColor": "gold",
-                "progress": 90,
-                "image": "https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667"
-            },
-            {
-                "name": "HighCharts",
-                "description": "",
-                "borderColor": "gold",
-                "progress": 90,
-                "image": "https://camo.githubusercontent.com/546198b6ccda37a8f566e9ba4b29901b34d338782e8e37f140ecf2ef484a0b1a/68747470733a2f2f77702d6173736574732e686967686368617274732e636f6d2f7376672f6c6f676f323032312e737667"
-            },
-            {
-                "name": "Cypress",
+                "name": "Angular Material",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+                "image": "https://camo.githubusercontent.com/ccf7b357bae6f4c8845851055811bbd1233abfc1da5333f3b1ecec05d78e9d95/68747470733a2f2f6d6174657269616c2e616e67756c61722e696f2f6173736574732f696d672f616e67756c61722d6d6174657269616c2d6c6f676f2e737667"
             },
             {
-                "name": "Passport",
-                "description": "",
-                "borderColor": "silver",
-                "progress": 80,
-                "image": "https://cdn.glitch.me/project-avatar/0d184ee3-fd8d-4b94-acf4-b4e686e57375.png"
-            },
-            {
-                "name": "Keycloak",
-                "description": "",
-                "borderColor": "gold",
-                "progress": 90,
-                "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png"
-            },
-            {
-                "name": "Minio",
-                "description": "",
-                "borderColor": "gold",
-                "progress": 80,
-                "image": "https://min.io/resources/img/logo/MINIO_Bird.png"
-            },
-            {
-                "name": "Jest",
+                "name": "Tailwind",
                 "description": "",
                 "borderColor": "gold",
                 "progress": 100,
-                "image": "https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
             },
             {
-                "name": ".net Core",
+                "name": "NestJs",
                 "description": "",
-                "borderColor": "grey",
-                "progress": 70,
-                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+                "borderColor": "gold",
+                "progress": 100,
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+            },
+            {
+                "name": "NodeJs",
+                "description": "",
+                "borderColor": "gold",
+                "progress": 100,
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            },
+            {
+                "name": "Express",
+                "description": "",
+                "borderColor": "gold",
+                "progress": 100,
+                "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
             }
         ]
     },
