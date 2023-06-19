@@ -1,0 +1,363 @@
+[
+    {
+      "FromMonth": "January",
+      "FromYear": 2022,
+      "InPost": true,
+      "Company": {
+        "Name": "Bearingpoint",
+        "LogoUrl": "https://www.bearingpoint.com/files/BrP_Logo_RGB_PS.png?max_w=160",
+        "Team": "Products",
+        "LinkedInUrl": "https://www.linkedin.com/company/bearingpoint/",
+        "Url": "https://www.bearingpoint.com/en/store/"
+      },
+      "Title": "Lead Software Engineer",
+      "Location": "Paris La Défense, Île-de-France, France",
+      "DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2022-InPost-Bearingpoint.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "FromMonth": "April",
+      "FromYear": 2017,
+      "ToMonth": "January",
+      "ToYear": 2022,
+      "Company": {
+        "Name": "Bearingpoint",
+        "Team": "Products",
+        "LinkedInUrl": "https://www.linkedin.com/company/bearingpoint/",
+        "Url": "https://www.bearingpoint.com/en/store/"
+      },
+      "Title": "Software Engineer",
+      "Location": "Paris La Défense, Île-de-France, France",
+"DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2017-2022-BearingPoint.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "FromMonth": "December",
+      "FromYear": 2011,
+      "ToMonth": "April",
+      "ToYear": 2017,
+      "Company": {
+        "Name": "Thomson Reuters",
+        "Team": "Eikon",
+        "LinkedInUrl": "https://www.linkedin.com/company/thomson-reuters/",
+        "Url": "https://eikon.refinitiv.com/"
+      },
+      "Title": "Lead Software Engineer",
+      "Location": "Paris La Défense, Île-de-France, France",
+"DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2011-2017-ThomsonReuters.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "FromMonth": "September",
+      "FromYear": 2007,
+      "ToMonth": "December",
+      "ToYear": 2011,
+      "Company": {
+        "Name": "Thomson Reuters",
+        "Team": "Eikon",
+        "LinkedInUrl": "https://www.linkedin.com/company/thomson-reuters/",
+        "Url": "https://eikon.refinitiv.com/"
+      },
+      "Title": "Software Engineer",
+      "Location": "Paris La Défense, Île-de-France, France",
+      "Description": "",
+"DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2007-2011-ThomsonReuters.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "FromMonth": "September",
+      "FromYear": 2001,
+      "ToMonth": "September",
+      "ToYear": 2007,
+      "Company": {
+        "Name": "Thomson Reuters",
+        "Team": "Eikon",
+        "LinkedInUrl": "https://www.linkedin.com/company/thomson-reuters/",
+        "Url": "https://eikon.refinitiv.com/"
+      },
+      "Title": "Software Engineer",
+      "Location": "Paris La Défense, Île-de-France, France",
+"DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2001-2007-Effix.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "FromMonth": "September",
+      "FromYear": 2000,
+      "ToMonth": "September",
+      "ToYear": 2001,
+      "Company": {
+        "Name": "LOGFI (XFI)"
+      },
+      "Title": "Software Engineer",
+      "Location": "Paris, Île-de-France, France",
+"DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2000-2001-XFI.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    },
+    {
+      "FromMonth": "September",
+      "FromYear": 1998,
+      "ToMonth": "September",
+      "ToYear": 2000,
+      "Company": {
+        "Name": "Statigest",
+        "LinkedInUrl": "https://www.linkedin.com/company/statigest",
+        "Url": "https://www.statigest.fr/"
+      },
+      "Title": "Software Engineer",
+      "Location": "Paris, Île-de-France, France",
+"DescriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/1998-2000-Statigest.md",
+      "Skills": [
+        {
+          "Name": "HTML5",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+        },
+        {
+          "Name": "CSS3",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+        },
+        {
+          "Name": "SASS",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        },
+        {
+          "Name": "JavaScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        },
+        {
+          "Name": "TypeScript",
+          "borderColor": "gold",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        },
+        {
+          "Name": "CSharp",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        },
+        {
+          "Name": "Python",
+          "borderColor": "grey",
+          "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        }
+      ]
+    }
+  ]
