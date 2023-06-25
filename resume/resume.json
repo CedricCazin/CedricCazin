@@ -8,11 +8,12 @@
         "logoUrl": "https://www.bearingpoint.com/files/BrP_Logo_RGB_PS.png?max_w=160",
         "team": "Products",
         "linkedInUrl": "https://www.linkedin.com/company/bearingpoint/",
-        "url": "https://www.bearingpoint.com/en/store/"
+        "url": "https://www.bearingpoint.com/fr-fr/"
       },
       "title": "Lead Software Engineer",
       "location": "Paris La Défense, Île-de-France, France",
       "descriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2022-InPost-Bearingpoint.md",
+      "skills": ["https://bearingpoint.services/demandsens/fr/", "https://bearingpoint.services/demandsens/fr/nos-solutions-nitro/nitropress/", "https://bearingpoint.services/demandsens/fr/nos-solutions-nitro/nitrolivres/"],
       "skills": [
         {
           "name": "HTML5",
