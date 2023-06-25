@@ -13,7 +13,20 @@
       "title": "Lead Software Engineer",
       "location": "Paris La Défense, Île-de-France, France",
       "descriptionUrl": "https://raw.githubusercontent.com/CedricCazin/CedricCazin/main/resume/2022-InPost-Bearingpoint.md",
-      "links": ["https://bearingpoint.services/demandsens/fr/", "https://bearingpoint.services/demandsens/fr/nos-solutions-nitro/nitropress/", "https://bearingpoint.services/demandsens/fr/nos-solutions-nitro/nitrolivres/"],
+      "links": [
+        {
+          "link": "https://bearingpoint.services/demandsens/fr/",
+          "label": "DemandSens"
+        },
+        {
+          "link": "https://bearingpoint.services/demandsens/fr/nos-solutions-nitro/nitropress/",
+          "label": "DemandSens Press"
+        },
+        {
+          "link": "https://bearingpoint.services/demandsens/fr/nos-solutions-nitro/nitrolivres/",
+          "label": "DemandSens Books"
+        }
+      ],
       "skills": [
         {
           "name": "HTML5",
